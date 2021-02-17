@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+[![Header](https://images.app.goo.gl/iDiSrReR9BhYEgGo9)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
 
 ### Languages
 

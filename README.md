@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Enginering/Analysist/Science, Mathmatics, and Cosmos.
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Machine Learning, Deep Learning, and Data Pipeline 
-- 📫 How to reach me @reaganlu22@gmail.com
+- 📫 How to reach me @reagantberhe@gmail.com
 
 <!---
 reaganlu22/reaganlu22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
